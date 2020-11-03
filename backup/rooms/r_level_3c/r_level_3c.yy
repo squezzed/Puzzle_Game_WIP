@@ -199,8 +199,8 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "Level 3",
+    "path": "folders/Rooms/Stage 1/Level 3.yy",
   },
   "resourceVersion": "1.0",
   "name": "r_level_3c",
