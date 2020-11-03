@@ -59,6 +59,7 @@
     {"folderPath":"folders/Objects/Walls, Buttoms, Etc..yy","order":2,"resourceVersion":"1.0","name":"Walls, Buttoms, Etc.","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Start Menu Assets.yy","order":3,"resourceVersion":"1.0","name":"Start Menu Assets","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Game Controls, Etc..yy","order":3,"resourceVersion":"1.0","name":"Game Controls, Etc.","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Rooms/Level 3.yy","order":6,"resourceVersion":"1.0","name":"Level 3","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
