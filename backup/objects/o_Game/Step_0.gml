@@ -1,3 +1,7 @@
+if room = r_StartMenu and keyboard_check_pressed(vk_space){
+	room_goto(r_level_1);
+}
+
 if room = r_level_1 and global.collected_coins = 3{ 
 	room_goto(r_level_2);
 	global.collected_coins = 0;
@@ -18,14 +22,12 @@ if room = r_level_3b and global.collected_coins = 1{
 	global.collected_coins = 0;
 }
 
-if room = r_level_1_hint and keyboard_check_pressed(vk_escape){
-	room_goto(r_level_1);
+if room = r_level_3c and global.collected_coins = 1{
+	room_goto(r_Stage1_complete);
+	global.collected_coins = 0;
 }
 
-if room = r_level_2_hint and keyboard_check_pressed(vk_escape){
-	room_goto(r_level_2);
-}
-
-if room = r_level_3_hint and keyboard_check_pressed(vk_escape){
-	room_goto(r_level_3);
+if room = r_Stage1_complete and keyboard_check_pressed(vk_space){
+	room_goto(r_level_4);
+	global.collected_coins = 0;
 }
