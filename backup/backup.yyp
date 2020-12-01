@@ -7,7 +7,6 @@
     {"id":{"name":"r_level_3c","path":"rooms/r_level_3c/r_level_3c.yy",},"order":2,},
     {"id":{"name":"r_level_4b","path":"rooms/r_level_4b/r_level_4b.yy",},"order":1,},
     {"id":{"name":"s_Stage1_complete","path":"sprites/s_Stage1_complete/s_Stage1_complete.yy",},"order":3,},
-    {"id":{"name":"s_button_pressed","path":"sprites/s_button_pressed/s_button_pressed.yy",},"order":5,},
     {"id":{"name":"s_cursor","path":"sprites/s_cursor/s_cursor.yy",},"order":1,},
     {"id":{"name":"r_level_3b","path":"rooms/r_level_3b/r_level_3b.yy",},"order":1,},
     {"id":{"name":"r_level_2","path":"rooms/r_level_2/r_level_2.yy",},"order":1,},

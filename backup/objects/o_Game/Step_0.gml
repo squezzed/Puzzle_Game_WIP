@@ -35,7 +35,3 @@ if room = r_Stage1_complete and keyboard_check_pressed(vk_space){
 	room_goto(r_level_4);
 	global.collected_coins = 0;
 }
-
-if room = r_level_4 and mouse_check_button_pressed(mb_left){
-	room_goto(r_level_4b);
-}
