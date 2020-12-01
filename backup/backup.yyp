@@ -1,11 +1,14 @@
 {
   "resources": [
+    {"id":{"name":"s_portal","path":"sprites/s_portal/s_portal.yy",},"order":5,},
     {"id":{"name":"r_TutorialAndHints","path":"rooms/r_TutorialAndHints/r_TutorialAndHints.yy",},"order":9,},
     {"id":{"name":"s_button","path":"sprites/s_button/s_button.yy",},"order":4,},
     {"id":{"name":"s_coin","path":"sprites/s_coin/s_coin.yy",},"order":3,},
+    {"id":{"name":"r_level_6","path":"rooms/r_level_6/r_level_6.yy",},"order":3,},
     {"id":{"name":"o_coin","path":"objects/o_coin/o_coin.yy",},"order":1,},
     {"id":{"name":"r_level_3c","path":"rooms/r_level_3c/r_level_3c.yy",},"order":2,},
     {"id":{"name":"r_level_4b","path":"rooms/r_level_4b/r_level_4b.yy",},"order":1,},
+    {"id":{"name":"r_level_5","path":"rooms/r_level_5/r_level_5.yy",},"order":2,},
     {"id":{"name":"s_Stage1_complete","path":"sprites/s_Stage1_complete/s_Stage1_complete.yy",},"order":3,},
     {"id":{"name":"s_cursor","path":"sprites/s_cursor/s_cursor.yy",},"order":1,},
     {"id":{"name":"r_level_3b","path":"rooms/r_level_3b/r_level_3b.yy",},"order":1,},
@@ -18,6 +21,7 @@
     {"id":{"name":"s_Tutuorial","path":"sprites/s_Tutuorial/s_Tutuorial.yy",},"order":2,},
     {"id":{"name":"f_coin","path":"fonts/f_coin/f_coin.yy",},"order":0,},
     {"id":{"name":"s_player","path":"sprites/s_player/s_player.yy",},"order":0,},
+    {"id":{"name":"o_portal","path":"objects/o_portal/o_portal.yy",},"order":4,},
     {"id":{"name":"r_Stage1_complete","path":"rooms/r_Stage1_complete/r_Stage1_complete.yy",},"order":3,},
     {"id":{"name":"r_level_4","path":"rooms/r_level_4/r_level_4.yy",},"order":0,},
     {"id":{"name":"s_fake_wall","path":"sprites/s_fake_wall/s_fake_wall.yy",},"order":2,},
@@ -52,6 +56,8 @@
     {"name":"r_TutorialAndHints","path":"rooms/r_TutorialAndHints/r_TutorialAndHints.yy",},
     {"name":"r_Stage1_complete","path":"rooms/r_Stage1_complete/r_Stage1_complete.yy",},
     {"name":"r_level_4b","path":"rooms/r_level_4b/r_level_4b.yy",},
+    {"name":"r_level_5","path":"rooms/r_level_5/r_level_5.yy",},
+    {"name":"r_level_6","path":"rooms/r_level_6/r_level_6.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

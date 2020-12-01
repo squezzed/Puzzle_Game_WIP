@@ -35,3 +35,7 @@ if room = r_Stage1_complete and keyboard_check_pressed(vk_space){
 	room_goto(r_level_4);
 	global.collected_coins = 0;
 }
+
+if room = r_level_4b and global.collected_coins = 1{
+	room_goto(r_level_5);
+}
