@@ -1,4 +1,4 @@
-if room = r_StartMenu and keyboard_check_pressed(vk_space){
+ if room = r_StartMenu and keyboard_check_pressed(vk_space){
 	room_goto(r_TutorialAndHints);
 }
 

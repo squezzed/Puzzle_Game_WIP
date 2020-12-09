@@ -1,4 +1,3 @@
-
 if keyboard_check(ord("D")) and not place_meeting ( x+speed_ ,y, o_wall){
 	x += speed_;
 }
